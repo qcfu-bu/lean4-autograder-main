@@ -6,6 +6,6 @@
 
 set -ex
 
-~/.elan/bin/lake exe cache get
+# ~/.elan/bin/lake exe cache get
 
 ~/.elan/bin/lake exe autograder
